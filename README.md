@@ -28,6 +28,8 @@ At Masterschool’s Data Analytics Bootcamp, I honed my skills in tools like Tab
 
 With a blend of business experience and technical expertise, I excel at turning data into actionable insights. I’m passionate about solving challenges and adding value through analytics, and I’m eager to contribute to impactful, data-driven projects.
 
+<a href="https://www.linkedin.com/in/jburgmayer" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+
 📫 Contact: **jburg1967@gmail.com**
 <!--Intro end-->
   </p>
