@@ -28,6 +28,6 @@ At Masterschool’s Data Analytics Bootcamp, I honed my skills in tools like Tab
 
 With a blend of business experience and technical expertise, I excel at turning data into actionable insights. I’m passionate about solving challenges and adding value through analytics, and I’m eager to contribute to impactful, data-driven projects.
 
-📫 Contact: **jburgmayer@gmail.com**
+📫 Contact: **jburg1967@gmail.com**
 <!--Intro end-->
   </p>
