@@ -1,19 +1,33 @@
 ## Hi there 👋
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+John+%F0%9F%91%8B;Data+Analyst;Your+new+team+member;Retail+and+Business+Experience;Problem+Solver;Analytical+Thinking" alt="Headline" />
     </div>
 
-**jburgma/jburgma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
 
-- 🔭 I’m currently working on Master
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+### Engineering Background and Passion for Data Analysis
+        
+As an engineer, I’ve always been drawn to technology and numerical data. My transition to data analysis began during my time managing an industrial business, where I enhanced my skills with finance and administration courses. Later, I co-founded a retail perfumery, initially managing the construction of four stores and eventually joining the management team. Tackling financial and operational challenges sparked my passion for analyzing data, first with Excel and later with Power BI.
+
+### Relocation to Germany and Remote Work
+
+Seeking better opportunities, I emigrated to Germany, continuing to support the perfumery business remotely by analyzing costs, sales, and staff performance to guide decision-making. In Germany, I worked on home renovation projects while dedicating my free time to studying Business Intelligence and SQL, which ultimately inspired my career change to data analytics.
+
+### Professional Growth in Data Analytics
+
+At Masterschool’s Data Analytics Bootcamp, I honed my skills in tools like Tableau, SQL, Python, and Machine Learning. This training, combined with my retail experience, equips me to provide practical, data-driven solutions. I’ve applied:
+   - SQL and Python for data cleaning and analysis.
+   - Visualization tools like Tableau and Matplotlib for insights.
+   - Machine Learning models such as K-Means for customer segmentation.
+
+### What Drives Me
+
+With a blend of business experience and technical expertise, I excel at turning data into actionable insights. I’m passionate about solving challenges and adding value through analytics, and I’m eager to contribute to impactful, data-driven projects.
+
+📫 Contact: **jburgmayer@gmail.com**
+<!--Intro end-->
+  </p>
