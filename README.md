@@ -33,3 +33,14 @@ With a blend of business experience and technical expertise, I excel at turning 
 📫 Contact: **jburg1967@gmail.com**
 <!--Intro end-->
   </p>
+
+  <h2 >Tools used👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+        
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,postgres,vscode,windows,autocad&perline=12" />
+  </a>Google Colab, Excel, Power BI, Tableau
+</p>
+<br>
+<!-------------------------->
