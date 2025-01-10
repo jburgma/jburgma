@@ -30,7 +30,7 @@ With a blend of business experience and technical expertise, I excel at turning 
 
 <a href="https://www.linkedin.com/in/jburgmayer" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
-📫 Contact: **jburg1967@gmail.com**
+📫 Contact: **jburgmayer@gmail.com**
 <!--Intro end-->
   </p>
 
