@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+John+%F0%9F%91%8B;Data+Analyst;Your+new+team+member;Retail+and+Business+Experience;Problem+Solver;Analytical+Thinking" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+John+%F0%9F%91%8B;Data+Analyst;Your+new+team+member;Retail+&+Business+Management+Experience;Problem+Solver;Analytical+Thinking" alt="Headline" />
     </div>
 
 <h2>About me 😃</h2>
